@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aspirante</string>
+    <array name="tipos_bachillerato">
+        <item>Fisico Matematico</item>
+        <item>Humanidades</item>
+        <item>Ciencias de la Salud</item>
+    </array>
+</resources>
